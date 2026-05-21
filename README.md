@@ -1,3 +1,4 @@
+<img width="1536" height="1024" alt="ChatGPT Image May 21, 2026, 12_24_58 PM" src="https://github.com/user-attachments/assets/673fc1c0-899e-453d-a4f9-44f87ca7f825" />
 # 💫 About Me:
 🔭 I’m currently working on Zanqir Startup — a platform providing affordable housekeeping and cooking helper services in Tier-2 and Tier-3 cities.<br>🌱 I’m currently learning Web3, Artificial Intelligence (AI), and improving my Data Structures & Algorithms (DSA) skills to strengthen my problem-solving and development abilities.<br>🌐 You can know more about me and my work through my personal portfolio website:<br>deepindersingh.tech
 
